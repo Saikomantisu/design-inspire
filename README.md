@@ -9,7 +9,7 @@ A curated collection of sites that help developers find design inspiration for w
 - [App interfaces](collections/app-interfaces.md) - Product interfaces, screens, and user flows.
 - [Components and patterns](collections/components-and-patterns.md) - Individual website sections and UI patterns.
 
-Each resource includes a short description, specific use cases, and tags. Resources have one primary category, with tags for overlapping topics.
+Each resource includes a short description and tags. Resources have one primary category, with tags for overlapping topics.
 
 ## Contributing
 

@@ -17,7 +17,6 @@ Use this format:
 
 A short description of the resource.
 
-- **Useful for:** Specific design tasks or reference material.
 - **Tags:** relevant, searchable, topics
 ```
 

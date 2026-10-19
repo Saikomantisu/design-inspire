@@ -8,5 +8,4 @@ Focused galleries for individual website sections and UI patterns.
 
 A gallery dedicated to website footers, with categories for treatments such as large type, grids, cards, and animation.
 
-- **Useful for:** Comparing footer navigation, content hierarchy, typography, and layout before building the bottom section of a page.
 - **Tags:** components, footers, navigation, typography
