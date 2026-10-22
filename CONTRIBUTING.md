@@ -24,13 +24,14 @@ Prefer curated, useful resources over long lists of unexplained links. If access
 
 ## Categories and tags
 
-Use one of these five categories:
+Use one of these six categories:
 
 - [Full websites](collections/full-websites.md): Galleries focused on complete website designs, visual styles, and layouts.
 - [Landing pages](collections/landing-pages.md): Resources focused on product marketing pages and supporting sections, such as pricing and features.
 - [App interfaces](collections/app-interfaces.md): Resources focused on mobile and web app screens, dashboards, and user flows.
 - [Components and patterns](collections/components-and-patterns.md): Resources focused on individual sections or UI patterns, such as footers and navigation.
 - [Typography](collections/typography.md): Font libraries and tools for choosing typefaces and pairings.
+- [Icons](collections/icons.md): Icon libraries and tools for finding and using icons in projects.
 
 Give each resource exactly one primary category based on its main purpose. When a resource covers several areas, choose its strongest focus and describe the overlap with tags instead of duplicating the entry.
 
