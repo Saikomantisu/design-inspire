@@ -27,3 +27,9 @@ A free library of animated React components, including text animations, backgrou
 A collection of shadcn/ui blocks for sections such as heroes, auth, dashboards, headers, footers, and calls to action. Install blocks with the shadcn CLI. Some blocks are free, and full access is paid.
 
 - **Tags:** components, shadcn, react, blocks, dashboards
+
+## [Kobra](https://kobra.systems/)
+
+A React and Tailwind CSS component library for navigation, overlays, forms, layout, and feedback, plus AI agent components such as chat history, streaming text, and inline citations. Install components with the shadcn CLI. Some components are free, and a paid plan unlocks more.
+
+- **Tags:** components, react, tailwind, shadcn, ai
