@@ -33,3 +33,9 @@ A collection of shadcn/ui blocks for sections such as heroes, auth, dashboards, 
 A React and Tailwind CSS component library for navigation, overlays, forms, layout, and feedback, plus AI agent components such as chat history, streaming text, and inline citations. Install components with the shadcn CLI. Some components are free, and a paid plan unlocks more.
 
 - **Tags:** components, react, tailwind, shadcn, ai
+
+## [Torph](https://torph.lochie.me/)
+
+A free, open-source text morphing component that animates between strings, so labels, buttons, and counters change smoothly instead of swapping instantly. It has no dependencies and works with React, Vue, Svelte, or plain TypeScript. Install it from npm.
+
+- **Tags:** components, animation, text, react, vue, svelte
