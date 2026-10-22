@@ -21,3 +21,9 @@ A library of React and Tailwind CSS components, templates, and shadcn themes fro
 A free library of animated React components, including text animations, backgrounds, and micro-interactions. Copy the source or install it with the CLI, in JavaScript or TypeScript with CSS or Tailwind.
 
 - **Tags:** components, react, animation, backgrounds, tailwind
+
+## [Efferd](https://efferd.com/)
+
+A collection of shadcn/ui blocks for sections such as heroes, auth, dashboards, headers, footers, and calls to action. Install blocks with the shadcn CLI. Some blocks are free, and full access is paid.
+
+- **Tags:** components, shadcn, react, blocks, dashboards
