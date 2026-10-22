@@ -39,3 +39,9 @@ A React and Tailwind CSS component library for navigation, overlays, forms, layo
 A free, open-source text morphing component that animates between strings, so labels, buttons, and counters change smoothly instead of swapping instantly. It has no dependencies and works with React, Vue, Svelte, or plain TypeScript. Install it from npm.
 
 - **Tags:** components, animation, text, react, vue, svelte
+
+## [Aceternity UI](https://ui.aceternity.com/)
+
+A library of animated React and Next.js components built with Tailwind CSS and Motion, including backgrounds, cards, carousels, text effects, and 3D elements. Copy the code or install it with the shadcn CLI. The components are free, and paid plans add ready-made sections, landing pages, and full website templates.
+
+- **Tags:** components, react, tailwind, animation, shadcn, templates
