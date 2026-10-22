@@ -15,3 +15,9 @@ A curated gallery of websites, with filters for industry, style, site type, typo
 A gallery of website designs organized by style, type, subject, and platform.
 
 - **Tags:** websites, typography, portfolios, layouts
+
+## [Vibrant Design](https://vibrant.design/)
+
+A curated gallery of websites, page sections, launch videos, and OG images. Browse sections such as heroes, pricing, FAQs, and footers, sort by latest or popular, or use the random "Surprise me" button.
+
+- **Tags:** websites, landing-pages, sections, launch-videos, og-images
