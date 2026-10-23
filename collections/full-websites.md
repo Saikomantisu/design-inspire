@@ -21,3 +21,9 @@ A gallery of website designs organized by style, type, subject, and platform.
 A curated gallery of websites, page sections, launch videos, and OG images. Browse sections such as heroes, pricing, FAQs, and footers, sort by latest or popular, or use the random "Surprise me" button.
 
 - **Tags:** websites, landing-pages, sections, launch-videos, og-images
+
+## [landing.love](https://www.landing.love/)
+
+A gallery of animated websites shown as full-page video recordings, so you can see motion and scroll effects. Filter by category, style, technique (such as GSAP, WebGL, and Three.js), platform (such as Webflow and Framer), and year.
+
+- **Tags:** websites, animation, webgl, webflow, framer
